@@ -1,2 +1,6 @@
+# Scala related
 *.class
 *.log
+.bsp
+.idea
+target/
